@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px black solid;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+
+.btn-container{
+    display:  flex;
+    justify-content: center;
+   
+}
+
+.one{
+    background-color: aquamarine;
+}
+
+.two{
+    background-color: rosybrown;
+
+}
+
+.three{
+
+    background-color: orange;
+}
+
+.four{
+    background-color: violet;
+}
+
+.flash {
+
+    background-color: white;
+}
+
+.red {
+    background-color: red;
+}
